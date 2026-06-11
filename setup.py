@@ -25,8 +25,8 @@ setup(
 
     install_requires=[
         'td-ameritrade-python-api>=0.3.0',
-        'pandas==1.0.5',
-        'numpy==1.19.0'
+        'pandas==2.0.0',
+        'numpy==1.26.0'
     ],
 
     keywords='finance, td ameritrade, api, trading robot',
